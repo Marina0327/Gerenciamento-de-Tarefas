@@ -1,5 +1,7 @@
-#                                                          Gerenciador de Tarefas (To-Do List) em Python
+<br>
 
+# ----------- Gerenciador de Tarefas (To-Do List) em Python  -----------
+<br>
 Este é um projeto simples de **Gerenciamento de Tarefas (To-Do List)** desenvolvido em **Python**, com foco em demonstrar o uso de **Técnicas de Desenvolvimento de Algoritmos** e **estruturas de dados básicas (listas)** em um **console interativo**.
 
 ---
@@ -42,7 +44,8 @@ Isso torna o código mais **organizado, legível e fácil de manter**.
 <BR>
 <BR>
 
-<img width="740" height="762" alt="codigoPython" src="https://github.com/user-attachments/assets/9a8e3139-314f-4aad-be71-f0d4b52eb09b" />
+<img width="764" height="729" alt="2025-11-13" src="https://github.com/user-attachments/assets/13e29065-9dbf-4ded-896d-97061b831fa2" />
+
 
 <BR>
 <BR>
